@@ -1,0 +1,2 @@
+F:\GitHub\AppSoftware_Project\Fighting game Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\GitHub\AppSoftware_Project\Fighting game Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
